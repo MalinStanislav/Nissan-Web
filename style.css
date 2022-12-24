@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+body {
+    background: rgb(22, 22, 22);
+    font: normal 18px 'Russo One', sans-serif;
+}
+.Naming h1 {
+    font-family: 'Russo One', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 174, 0);
+    margin: 0px 1px;
+    padding: 0px 0px;
+}
+.Naming p {
+    font-size: 20px;
+    color: rgb(230, 230, 230);
+    margin: 0px 1px;
+}
+.Naming {
+    background: black;
+    padding-top: 0px;   
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.paragraph-name p {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(230, 230, 230);
+}
+.content {
+    max-width: 1500px;
+    margin: auto;
+}
+.content p {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(165, 165, 165);
+}
+a {
+    color: rgb(255, 174, 0);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(212, 127, 0); 
+}
+.cars {
+width: 36.458333333333%;
+border-radius: 5px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 15px;
+}
+.content table {
+    margin: auto;
+    font-size: 16px;
+    color:rgb(165, 165, 165);
+}
+table td  {
+    font-weight: normal;
+    border: 1px solid rgb(255, 153, 0);
+    border-collapse: collapse;
+}
+table {
+    border-spacing: 0px;
+    border-collapse: collapse; 
+}
+td {
+    padding: 5px;
+}
+.r35 {
+    width: 78.125% ;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px; 
+}
+.content-last p {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(165, 165, 165);
+}
+.content-last table {
+    margin: auto;
+    font-size: 22px;
+    color:rgb(165, 165, 165);
+    margin-bottom: 50px;
+}
+.content-url p {
+    text-align: center;
+    font-size: 24px;
+    border-bottom: 30px;
+    margin-bottom: 150px;
+}
+footer {
+    background: black;
+    color:  rgb(165, 165, 165);
+    font-size: 22px;
+    text-align: center;
+    padding: 25px 30px;
+}
+.contact_number {
+    color: rgb(255, 174, 0);
+}
